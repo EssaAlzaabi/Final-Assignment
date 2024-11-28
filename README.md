@@ -42,4 +42,3 @@ This project utilizes object-oriented programming (OOP) principles, including in
 1. **Login**: Enter your username and password to log in to your account. If you don’t have an account, you can register one using the "Register New Account" button.
 2. **Ticket Purchase**: Once logged in, you can view different ticket options (Single Day, Two Day, VIP Experience, etc.) and purchase tickets for the desired type.
 3. **View Orders**: After purchasing tickets, you can view your order history from your customer account.
-4. 
